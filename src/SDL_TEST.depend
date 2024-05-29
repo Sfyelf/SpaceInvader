@@ -1,0 +1,181 @@
+# depslib dependency file v1.0
+1714619043 source:e:\i'm_back_c++\remind_starter\sdl_test\game.cpp
+	"Game.hpp"
+	"TextureManager.hpp"
+	"GameObject.hpp"
+
+1714619082 e:\i'm_back_c++\remind_starter\sdl_test\game.hpp
+	"SDL.h"
+	"SDL_image.h"
+	<iostream>
+
+1714615644 source:e:\i'm_back_c++\remind_starter\sdl_test\main.cpp
+	"Game.hpp"
+
+1714616066 source:e:\i'm_back_c++\remind_starter\sdl_test\texturemanager.cpp
+	"TextureManager.hpp"
+
+1714616066 e:\i'm_back_c++\remind_starter\sdl_test\texturemanager.hpp
+	"Game.hpp"
+
+1714616066 e:\i'm_back_c++\remind_starter\sdl_test\gameobject.hpp
+	"Game.hpp"
+
+1714616066 source:e:\i'm_back_c++\remind_starter\sdl_test\gameobject.cpp
+	"GameObject.hpp"
+	"TextureManager.hpp"
+
+1715174892 source:e:\btvn_ltnc_23020608_nguyenhuyhoang\btvn_ltnc\sdl_test_1\gameobject.cpp
+	"GameObject.hpp"
+	"TextureManager.hpp"
+
+1715174979 e:\btvn_ltnc_23020608_nguyenhuyhoang\btvn_ltnc\sdl_test_1\gameobject.hpp
+	"Game.hpp"
+
+1716997747 e:\btvn_ltnc_23020608_nguyenhuyhoang\btvn_ltnc\sdl_test_1\game.hpp
+	"SDL.h"
+	"SDL_image.h"
+	"SDL_mixer.h"
+	<iostream>
+	"Ship.hpp"
+
+1715403147 e:\btvn_ltnc_23020608_nguyenhuyhoang\btvn_ltnc\sdl_test_1\texturemanager.hpp
+	"Game.hpp"
+
+1716219670 source:e:\btvn_ltnc_23020608_nguyenhuyhoang\btvn_ltnc\sdl_test_1\main.cpp
+	"Game.hpp"
+	"Input.hpp"
+	"Time.hpp"
+
+1715403268 source:e:\btvn_ltnc_23020608_nguyenhuyhoang\btvn_ltnc\sdl_test_1\texturemanager.cpp
+	"TextureManager.hpp"
+
+1717002861 source:e:\btvn_ltnc_23020608_nguyenhuyhoang\btvn_ltnc\sdl_test_1\game.cpp
+	"Game.hpp"
+	"Input.hpp"
+	"TextureManager.hpp"
+	"Image.hpp"
+	"Ship.hpp"
+	"Aliens.hpp"
+	"AliensManager.hpp"
+	"Boss.hpp"
+	"BossManager.hpp"
+
+1716312372 e:\btvn_ltnc_23020608_nguyenhuyhoang\btvn_ltnc\sdl_test_1\ship.hpp
+	"Image.hpp"
+	<vector>
+	<list>
+	"Bullet.hpp"
+
+1716997006 source:e:\btvn_ltnc_23020608_nguyenhuyhoang\btvn_ltnc\sdl_test_1\ship.cpp
+	"Ship.hpp"
+	"Input.hpp"
+	"Time.hpp"
+	<iostream>
+	"Game.hpp"
+
+1716999355 e:\btvn_ltnc_23020608_nguyenhuyhoang\btvn_ltnc\sdl_test_1\image.hpp
+	<SDL.h>
+
+1716999461 source:e:\btvn_ltnc_23020608_nguyenhuyhoang\btvn_ltnc\sdl_test_1\image.cpp
+	"Image.hpp"
+	"TextureManager.hpp"
+
+1715365941 source:e:\btvn_ltnc_23020608_nguyenhuyhoang\btvn_ltnc\sdl_test_1\input.cpp
+	"Input.hpp"
+
+1715365929 e:\btvn_ltnc_23020608_nguyenhuyhoang\btvn_ltnc\sdl_test_1\input.hpp
+	"SDL.h"
+
+1715367654 source:e:\btvn_ltnc_23020608_nguyenhuyhoang\btvn_ltnc\sdl_test_1\time.cpp
+	"Time.hpp"
+
+1715367538 e:\btvn_ltnc_23020608_nguyenhuyhoang\btvn_ltnc\sdl_test_1\time.hpp
+	"SDL.h"
+
+1716999197 source:e:\btvn_ltnc_23020608_nguyenhuyhoang\btvn_ltnc\sdl_test_1\aliens.cpp
+	"Aliens.hpp"
+	<SDL_image.h>
+	"Time.hpp"
+	"Game.hpp"
+
+1716310946 e:\btvn_ltnc_23020608_nguyenhuyhoang\btvn_ltnc\sdl_test_1\aliens.hpp
+	<SDL.h>
+	<string>
+	"Image.hpp"
+	<list>
+	"AliensBullet.hpp"
+	<iostream>
+	"AliensManager.hpp"
+
+1717000707 source:e:\btvn_ltnc_23020608_nguyenhuyhoang\btvn_ltnc\sdl_test_1\aliensmanager.cpp
+	"AliensManager.hpp"
+	<algorithm>
+	"Aliens.hpp"
+
+1717000707 e:\btvn_ltnc_23020608_nguyenhuyhoang\btvn_ltnc\sdl_test_1\aliensmanager.hpp
+	<list>
+	<vector>
+	"SDL.h"
+	"Explosion.hpp"
+
+1716997910 source:e:\btvn_ltnc_23020608_nguyenhuyhoang\btvn_ltnc\sdl_test_1\bullet.cpp
+	"Bullet.hpp"
+	"Time.hpp"
+	"Game.hpp"
+
+1716312372 e:\btvn_ltnc_23020608_nguyenhuyhoang\btvn_ltnc\sdl_test_1\bullet.hpp
+	<SDL.h>
+	"Image.hpp"
+
+1716224539 e:\btvn_ltnc_23020608_nguyenhuyhoang\btvn_ltnc\sdl_test_1\aliensbullet.hpp
+	<SDL.h>
+	"Image.hpp"
+
+1716224801 source:e:\btvn_ltnc_23020608_nguyenhuyhoang\btvn_ltnc\sdl_test_1\aliensbullet.cpp
+	"AliensBullet.hpp"
+	"Time.hpp"
+	"Game.hpp"
+
+1716345050 source:e:\btvn_ltnc_23020608_nguyenhuyhoang\btvn_ltnc\sdl_test_1\score.cpp
+	"Score.hpp"
+
+1716314100 e:\btvn_ltnc_23020608_nguyenhuyhoang\btvn_ltnc\sdl_test_1\score.hpp
+	"Game.hpp"
+	<stdio.h>
+
+1716998436 e:\btvn_ltnc_23020608_nguyenhuyhoang\btvn_ltnc\sdl_test_1\explosion.hpp
+	"SDL.h"
+	"Image.hpp"
+	"Time.hpp"
+
+1717000271 source:e:\btvn_ltnc_23020608_nguyenhuyhoang\btvn_ltnc\sdl_test_1\explosion.cpp
+	"Explosion.hpp"
+	"Game.hpp"
+
+1717002091 source:e:\btvn_ltnc_23020608_nguyenhuyhoang\btvn_ltnc\sdl_test_1\bossmanager.cpp
+	"BossManager.hpp"
+	<algorithm>
+	"Boss.hpp"
+
+1717002075 e:\btvn_ltnc_23020608_nguyenhuyhoang\btvn_ltnc\sdl_test_1\bossmanager.hpp
+	<list>
+	<vector>
+	"SDL.h"
+	"Explosion.hpp"
+
+1717001365 e:\btvn_ltnc_23020608_nguyenhuyhoang\btvn_ltnc\sdl_test_1\boss.hpp
+	<SDL.h>
+	<string>
+	"Image.hpp"
+	<list>
+	"AliensBullet.hpp"
+	<iostream>
+	"BossManager.hpp"
+
+1717001350 source:e:\btvn_ltnc_23020608_nguyenhuyhoang\btvn_ltnc\sdl_test_1\boss.cpp
+	"Boss.hpp"
+	<SDL_image.h>
+	"Time.hpp"
+	"Game.hpp"
+
